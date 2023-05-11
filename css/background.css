@@ -1,0 +1,22 @@
+.bgcolor {
+    background-color: burlywood;
+    height: 50px;
+}
+
+ .bgimage{
+    background-image: url(../img/burro.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    height: 200px;
+}
+
+ .bgimage p{
+    background-color:);
+ }
+
+ body{
+    background-image: url(../img/fundo.webp);
+    background-attachment: fixed;
+    background-size: cover;
+ }
